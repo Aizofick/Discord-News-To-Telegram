@@ -7,11 +7,11 @@ from aiogram.client.session.aiohttp import AiohttpSession
 from aiogram.types import BufferedInputFile, InputMediaPhoto, InputMediaDocument
 import aiohttp
 
-DISCORD_TOKEN = 'MTQwMjY5Njk0NTk3NzM5MzM4Nw.GMsgNT.SMJOu0YAuweFZGA7Z7oJm-tXgBYX57E3V-Swh8'
-TELEGRAM_TOKEN = '8002779012:AAE4l_ysL9n9hu5MceXvIgztkh2YXyL10c0'
+DISCORD_TOKEN = ''
+TELEGRAM_TOKEN = ''
 
-TELEGRAM_CHAT_ID = -1002388165108
-TELEGRAM_THREAD_ID = 61933
+TELEGRAM_CHAT_ID = -12345
+TELEGRAM_THREAD_ID = 12345
 
 DISCORD_CHANNEL_IDS = {
     1402689963920851017,
